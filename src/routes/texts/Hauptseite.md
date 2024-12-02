@@ -5,13 +5,32 @@ color: "blue"
 author: BBF
 isPublic: true
 lang: de
-description: "Interlinking Pictura stellt ausgewählte Bestände aus Pictura Paedagogica in Kontext mit weiteren Informationen neu zur Verfügung. Anfang macht das Bilderbuch für Kinder von F.J. Bertuch. Von 1790 bis 1830 erschienen mehr als 1000 Tafel in 12 Bänden. Das Wissen der Welt um 1800 wurde für Kinder bildlich wiedergegeben und mit leicht verständlichen Texten erklärt. Die Themen umfassen Tier- und Pflanzenwelt, fremde Völker und Länder sowie zeitgenössische Erfindungen und Naturereignisse."
+description: "Interlinking Pictura stellt ausgewählte Bestände aus Pictura Paedagogica in Kontext mit weiteren Informationen neu zur Verfügung. Hier sehen Sie Auszüge aus dem Bilderbuch für Kinder von F.J. Bertuch. Von 1790 bis 1830 erschienen mehr als 1000 Tafeln in 12 Bänden. Das Wissen der Welt um 1800 wurde für Kinder bildlich wiedergegeben und mit leicht verständlichen Texten erklärt. Die Themen umfassen Tier- und Pflanzenwelt, fremde Völker und Länder sowie zeitgenössische Erfindungen und Naturereignisse."
 cover: "https://interlinking.bbf.dipf.de/upload/Ad00341_08_059a.jpg"
 ---
-Machen Sie mit!!!
 
-Steigen Sie ein in die Wissenswelt um 1800! Wir möchten das Bilderbuch für Kinder neu erfahrbar machen. Durch Verlinking mit Internetangeboten sollen die Informationen aufbereitet werden, das Bildmaterial in Beziehung mit anderen Angeboten aus der Zeit gesetzt werden und die Texte ergänzt werden. Einige Aufgaben sind vorgegeben, Sie können aber auch eigene Forschungsfragen bearbeiten.
+Aufbau
 
-Melden Sie sich an und forschen Sie mit!
+Bertuchs Bilderbuch für Kinder folgt einem strengen Aufbau: jede Tafel wird begleitet von einem einseitigen deutschen Text. Ab Tafel 46 gibt es zu diesem deutschen Text auch eine französische Übersetzung. Band Jeweils fünf Tafeln sind zusammen in einem Heft veröffentlicht worden. Zwanzig Heften - bzw. 100 Tafeln - wurden zu einem Band zusammengebunden. Bis 1830 sind insgesamt 12 Bände erschienen, wobei der 12. Band nur noch 80 Tafeln enthält.
 
-Aktuell gibt es 9.787 Artikel! 
+Die Themen sind in eine Klassifikation eingeteilt, die auf jeder Textseite sowie oben auf den Tafeln vermerkt ist. Es gibt folgende Klassifikationen:
+
+    Vierfüssige Tiere (bzw. später auch Säugetiere)
+    Vögel
+    Fische
+    Insekten
+    Pflanzen
+    Menschen und Trachten
+    Gewürme (oder Würmer)
+    Conchylien (oder Weichtiere)
+    Corallen (oder Corallen-Arten)
+    Amphibien
+    Mineralien
+    Baukunst
+    Altertümer
+    Vermischte Gegenstände
+    Rosen
+    Früchte
+
+Die Tafeln jeder Klassifikation mit römischen Ziffern gezählt, während die arabischen Zahlen die Anzahl der Tafeln pro Band bestimmt.
+
