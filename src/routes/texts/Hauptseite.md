@@ -1,13 +1,17 @@
 ---
-title: An example of a possible essay.
-date: "2023-12-03"
+title: Willkommen bei Interlinking Pictura!
+date: "2024-12-02"
 color: "blue"
-author: Giacomo Nanni
+author: BBF
 isPublic: true
-lang: en
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing. Sed vel augue viverra, suscipit nisi sagittis, molestie neque."
+lang: de
+description: "Interlinking Pictura stellt ausgewählte Bestände aus Pictura Paedagogica in Kontext mit weiteren Informationen neu zur Verfügung. Anfang macht das Bilderbuch für Kinder von F.J. Bertuch. Von 1790 bis 1830 erschienen mehr als 1000 Tafel in 12 Bänden. Das Wissen der Welt um 1800 wurde für Kinder bildlich wiedergegeben und mit leicht verständlichen Texten erklärt. Die Themen umfassen Tier- und Pflanzenwelt, fremde Völker und Länder sowie zeitgenössische Erfindungen und Naturereignisse."
 cover: "https://interlinking.bbf.dipf.de/upload/Ad00341_08_059a.jpg"
 ---
+Machen Sie mit!!!
 
-Lorem ipsum dolor sit amet, consectetur [adipiscing](Lorem ipsum dolor sit amet, consectetur [adipiscing](http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/Datei-3AAd00341_08_059f.jpg-23_QUERY985d6a8ed777ae089b2b09dcf0f33ca3). Sed vel augue viverra, suscipit nisi sagittis, molestie neque. Fusce tincidunt quam non metus luctus ultrices. Etiam ullamcorper, sapien non lacinia [scelerisque](http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/Ad00341_01_003b-23_QUERY11ea12e464de94a83cede6c085fb6ea3), diam diam ultrices nisi, accumsan ornare [massa](http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/Datei-3AAd00341_01_003b.jpg) velit a eros. Suspendisse condimentum lectus leo, vel convallis velit [ornare](http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/Datei-3AAd99999_03_026c.jpg-23_QUERY0bfdf5289799cccc9f6041905459b6a2) id.
-). Sed vel augue viverra, suscipit nisi sagittis, molestie neque. Fusce tincidunt quam non metus luctus ultrices. Etiam ullamcorper, sapien non lacinia [scelerisque](http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/Datei-3AAd99998_09_063a.jpg), diam diam ultrices nisi, accumsan ornare [massa](http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/Himbeere) velit a eros. Suspendisse condimentum lectus leo, vel convallis velit [ornare](http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/Datei-3AAd99999_09_095c.jpg) id.
+Steigen Sie ein in die Wissenswelt um 1800! Wir möchten das Bilderbuch für Kinder neu erfahrbar machen. Durch Verlinking mit Internetangeboten sollen die Informationen aufbereitet werden, das Bildmaterial in Beziehung mit anderen Angeboten aus der Zeit gesetzt werden und die Texte ergänzt werden. Einige Aufgaben sind vorgegeben, Sie können aber auch eigene Forschungsfragen bearbeiten.
+
+Melden Sie sich an und forschen Sie mit!
+
+Aktuell gibt es 9.787 Artikel! 
